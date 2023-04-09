@@ -1,0 +1,24 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CumPDSTSP2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  energymodel.cpp
+  instance.cpp
+C:\Users\admin\source\repos\CumPDSTSP_1_index\instance.cpp(114,19): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\admin\source\repos\CumPDSTSP_1_index\instance.cpp(115,19): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\admin\source\repos\CumPDSTSP_1_index\instance.cpp(116,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\CumPDSTSP_1_index\instance.cpp(239,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  solver.cpp
+C:\Users\admin\source\repos\CumPDSTSP_1_index\solver.cpp(76,82): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  CumPDSTSP2.vcxproj -> C:\Users\admin\source\repos\CumPDSTSP_1_index\x64\Debug\FinalPDSTSP.exe
